@@ -3,3 +3,5 @@ DOMAIN-SUFFIX, e-hentai.prg
 DOMAIN-SUFFIX, exhentai.org
 DOMAIN-SUFFIX, dmm.co.jp
 DOMAIN-SUFFIX, amazon.co.jp
+
+USER-AGENT, *Telegram%20X*
