@@ -1,7 +1,10 @@
+PROCESS-NAME,Tweetbot
+
+USER-AGENT, *Telegram%20X*
+USER-AGENT, *Tweetbot*
+
 DOMAIN-SUFFIX, co.jp
 DOMAIN-SUFFIX, e-hentai.prg
 DOMAIN-SUFFIX, exhentai.org
 DOMAIN-SUFFIX, dmm.co.jp
 DOMAIN-SUFFIX, amazon.co.jp
-
-USER-AGENT, *Telegram%20X*
