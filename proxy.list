@@ -5,9 +5,9 @@ PROCESS-NAME,Dropbox
 PROCESS-NAME,LINE
 PROCESS-NAME,node-webkit
 PROCESS-NAME,Resilio Sync
-PROCESS-NAME,Tweetbot
-PROCESS-NAME,Twitter
-PROCESS-NAME,Twitterrific
+// PROCESS-NAME,Tweetbot
+// PROCESS-NAME,Twitter
+// PROCESS-NAME,Twitterrific
 PROCESS-NAME,viu
 
 // UA
