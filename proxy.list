@@ -5,10 +5,10 @@ PROCESS-NAME, Dropbox
 PROCESS-NAME, LINE
 PROCESS-NAME, node-webkit
 PROCESS-NAME, Resilio Sync
-// PROCESS-NAME, Tweetbot
-// PROCESS-NAME, Twitter
-// PROCESS-NAME, Twitterrific
-PROCESS-NAME, viu
+// PROCESS-NAME,  Tweetbot
+// PROCESS-NAME,  Twitter
+// PROCESS-NAME,  Twitterrific
+PROCESS-NAME,  viu
 
 // UA
 USER-AGENT, %E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
@@ -178,6 +178,7 @@ DOMAIN-SUFFIX, disconnect.me
 DOMAIN-SUFFIX, disq.us
 DOMAIN-SUFFIX, disqus.com
 DOMAIN-SUFFIX, disquscdn.com
+DOMAIN-SUFFIX, dlercloud.com
 DOMAIN-SUFFIX, dmm.co.jp
 DOMAIN-SUFFIX, dnsimple.com
 DOMAIN-SUFFIX, docker.com
@@ -362,7 +363,6 @@ DOMAIN-SUFFIX, osxdaily.com
 DOMAIN-SUFFIX, ow.ly
 DOMAIN-SUFFIX, paddle.com
 DOMAIN-SUFFIX, paddleapi.com
-DOMAIN-SUFFIX, pandora.com
 DOMAIN-SUFFIX, panoramio.com
 DOMAIN-SUFFIX, parallels.com
 DOMAIN-SUFFIX, parse.com
@@ -440,7 +440,6 @@ DOMAIN-SUFFIX, sourceforge.net
 DOMAIN-SUFFIX, sowers.org.hk
 DOMAIN-SUFFIX, speedsmart.net
 DOMAIN-SUFFIX, spike.com
-DOMAIN-SUFFIX, spoti.fi
 DOMAIN-SUFFIX, squarespace.com
 DOMAIN-SUFFIX, ssa.gov
 DOMAIN-SUFFIX, sstatic.net
@@ -547,6 +546,8 @@ DOMAIN-SUFFIX, usma.edu
 DOMAIN-SUFFIX, uspto.gov
 DOMAIN-SUFFIX, ustream.tv
 DOMAIN-SUFFIX, v.gd
+DOMAIN-SUFFIX, v2ex.co
+DOMAIN-SUFFIX, v2ex.com
 DOMAIN-SUFFIX, v2ray.com
 DOMAIN-SUFFIX, van001.com
 DOMAIN-SUFFIX, vanpeople.com
@@ -771,10 +772,12 @@ IP-CIDR, 208.43.0.0/16, no-resolve
 
 // Telegram
 IP-CIDR, 109.239.140.0/24, no-resolve
-IP-CIDR, 149.154.160.0/20, no-resolve
 IP-CIDR, 149.154.164.0/22, no-resolve
 IP-CIDR, 149.154.168.0/22, no-resolve
 IP-CIDR, 149.154.172.0/22, no-resolve
 IP-CIDR, 91.108.4.0/22, no-resolve
 IP-CIDR, 91.108.56.0/22, no-resolve
-IP-CIDR, 91.108.8.0/22, no-resolve
+IP-CIDR, 91.108.56.0/23, no-resolve
+IP-CIDR6, 2001:67c:4e8::/48, no-resolve
+IP-CIDR6, 2001:b28:f23d::/48, no-resolve
+IP-CIDR6, 2001:b28:f23f::/48, no-resolve
