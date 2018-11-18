@@ -4,6 +4,7 @@ PROCESS-NAME, ss-local
 // UA
 USER-AGENT, hide*
 USER-AGENT, PayPal*
+USER-AGENT, *splashtop*
 USER-AGENT, TeamViewer*
 USER-AGENT, TIM*
 USER-AGENT, ting_en
@@ -214,6 +215,7 @@ DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, soku.com
 DOMAIN-SUFFIX, soso.com
 DOMAIN-SUFFIX, speedtest.net
+DOMAIN-SUFFIX, splashtop.com
 DOMAIN-SUFFIX, sspai.com
 DOMAIN-SUFFIX, startssl.com
 DOMAIN-SUFFIX, store.steampowered.com
