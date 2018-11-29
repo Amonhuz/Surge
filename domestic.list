@@ -15,9 +15,9 @@ USER-AGENT, WeChat*
 DOMAIN-KEYWORD, beplay
 
 // Blizzard
-DOMAIN-SUFFIX, battle.net
-DOMAIN-SUFFIX, battlenet.com
-DOMAIN-SUFFIX, blizzard.com
+// DOMAIN-SUFFIX, battle.net
+// DOMAIN-SUFFIX, battlenet.com
+// DOMAIN-SUFFIX, blizzard.com
 
 // Prior
 DOMAIN, client.amplifi.com
