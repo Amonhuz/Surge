@@ -5,9 +5,9 @@ PROCESS-NAME, Dropbox
 PROCESS-NAME, LINE
 PROCESS-NAME, node-webkit
 PROCESS-NAME, Resilio Sync
-// PROCESS-NAME,  Tweetbot
-// PROCESS-NAME,  Twitter
-// PROCESS-NAME,  Twitterrific
+// PROCESS-NAME, Tweetbot
+// PROCESS-NAME, Twitter
+// PROCESS-NAME, Twitterrific
 PROCESS-NAME,  viu
 
 // UA
@@ -18,7 +18,7 @@ USER-AGENT, Coinbase*
 USER-AGENT, Instagram*
 USER-AGENT, Resilio Sync*
 USER-AGENT, viu*
-USER-AGENT, WhatsApp*
+USER-AGENT, WhatsApp
 
 // Line
 DOMAIN-SUFFIX, lin.ee
@@ -76,6 +76,7 @@ DOMAIN-SUFFIX, amazonaws.com
 DOMAIN-SUFFIX, ampproject.com
 DOMAIN-SUFFIX, ampproject.net
 DOMAIN-SUFFIX, ampproject.org
+DOMAIN-SUFFIX, anaconda.com
 DOMAIN-SUFFIX, ancsconf.org
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
@@ -316,6 +317,7 @@ DOMAIN-SUFFIX, manhuaren.com
 DOMAIN-SUFFIX, marketwatch.com
 DOMAIN-SUFFIX, mashable.com
 DOMAIN-SUFFIX, mathjax.org
+DOMAIN-SUFFIX, maven.org
 DOMAIN-SUFFIX, medium.com
 DOMAIN-SUFFIX, mega.co.nz
 DOMAIN-SUFFIX, mega.nz
@@ -386,6 +388,7 @@ DOMAIN-SUFFIX, pokemon.com
 DOMAIN-SUFFIX, polymer-project.org
 DOMAIN-SUFFIX, popo.tw
 DOMAIN-SUFFIX, potato.im
+DOMAIN-SUFFIX, preview.redd.it
 DOMAIN-SUFFIX, prfct.co
 DOMAIN-SUFFIX, proxfree.com
 DOMAIN-SUFFIX, psiphon3.com
