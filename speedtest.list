@@ -1,2 +1,3 @@
+USER-AGENT, *SpeedTest*
 
-DOMAIN-SUFFIX, speedtest.net
+DOMAIN-KEYWORD, speedtest
