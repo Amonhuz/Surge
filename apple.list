@@ -31,7 +31,6 @@ USER-AGENT,TestFlight*
 
 DOMAIN, guzzoni.apple.com
 DOMAIN, api.smoot.apple.cn
-DOMAIN-SUFFIX, cdn-apple.com
 DOMAIN-SUFFIX, aaplimg.com
 DOMAIN-SUFFIX, apple.co
 DOMAIN-SUFFIX, apple.com
