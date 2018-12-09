@@ -3,8 +3,8 @@ PROCESS-NAME, ss-local
 
 // UA
 USER-AGENT, hide*
+USER-AGENT, MicroMessenger*
 USER-AGENT, PayPal*
-USER-AGENT, *splashtop*
 USER-AGENT, TeamViewer*
 USER-AGENT, TIM*
 USER-AGENT, ting_en
@@ -15,9 +15,20 @@ USER-AGENT, WeChat*
 DOMAIN-KEYWORD, beplay
 
 // Blizzard
-// DOMAIN-SUFFIX, battle.net
-// DOMAIN-SUFFIX, battlenet.com
-// DOMAIN-SUFFIX, blizzard.com
+DOMAIN-SUFFIX, battle.net
+DOMAIN-SUFFIX, battlenet.com
+DOMAIN-SUFFIX, blizzard.com
+
+// Microsoft
+USER-AGENT, OneDrive*
+DOMAIN-KEYWORD, microsoft
+DOMAIN-SUFFIX, hotmail.com
+DOMAIN-SUFFIX, live.com
+DOMAIN-SUFFIX, live.net
+DOMAIN-SUFFIX, msn.com
+DOMAIN-SUFFIX, office.com
+DOMAIN-SUFFIX, office.net
+DOMAIN-SUFFIX, outlook.com
 
 // Prior
 DOMAIN, client.amplifi.com
@@ -119,6 +130,7 @@ DOMAIN-SUFFIX, fresh-ideas.cc
 DOMAIN-SUFFIX, geetest.com
 DOMAIN-SUFFIX, godic.net
 DOMAIN-SUFFIX, goodread.com
+DOMAIN-SUFFIX, google.cn
 DOMAIN-SUFFIX, gtimg.com
 DOMAIN-SUFFIX, haibian.com
 DOMAIN-SUFFIX, hao123.com
@@ -150,26 +162,25 @@ DOMAIN-SUFFIX, lecloud.com
 DOMAIN-SUFFIX, lemicp.com
 DOMAIN-SUFFIX, letv.com
 DOMAIN-SUFFIX, letvcloud.com
-DOMAIN-SUFFIX, live.com
 DOMAIN-SUFFIX, lizhi.io
 DOMAIN-SUFFIX, localizecdn.com
 DOMAIN-SUFFIX, lucifr.com
 DOMAIN-SUFFIX, luoo.net
 DOMAIN-SUFFIX, lxdns.com
 DOMAIN-SUFFIX, mai.tn
-DOMAIN-SUFFIX, maven.org
 DOMAIN-SUFFIX, meizu.com
 DOMAIN-SUFFIX, mi.com
 DOMAIN-SUFFIX, miaopai.com
-DOMAIN-SUFFIX, microsoft.com
 DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, miwifi.com
 DOMAIN-SUFFIX, mob.com
 DOMAIN-SUFFIX, moji.com
 DOMAIN-SUFFIX, moke.com
+DOMAIN-SUFFIX, mtalk.google.com
 DOMAIN-SUFFIX, mxhichina.com
 DOMAIN-SUFFIX, myqcloud.com
 DOMAIN-SUFFIX, myunlu.com
+DOMAIN-SUFFIX, ngabbs.com
 DOMAIN-SUFFIX, netease.com
 DOMAIN-SUFFIX, nfoservers.com
 DOMAIN-SUFFIX, nssurge.com
@@ -179,6 +190,7 @@ DOMAIN-SUFFIX, overcast.fm
 DOMAIN-SUFFIX, paypal.com
 DOMAIN-SUFFIX, paypalobjects.com
 DOMAIN-SUFFIX, pgyer.com
+DOMAIN-SUFFIX, pniao.com
 DOMAIN-SUFFIX, pstatp.com
 DOMAIN-SUFFIX, qbox.me
 DOMAIN-SUFFIX, qcloud.com
@@ -212,7 +224,7 @@ DOMAIN-SUFFIX, sogoucdn.com
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, soku.com
 DOMAIN-SUFFIX, soso.com
-DOMAIN-SUFFIX, splashtop.com
+DOMAIN-SUFFIX, speedtest.net
 DOMAIN-SUFFIX, sspai.com
 DOMAIN-SUFFIX, startssl.com
 DOMAIN-SUFFIX, store.steampowered.com
