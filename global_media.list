@@ -12,9 +12,12 @@ DOMAIN-SUFFIX, ameba.jp
 DOMAIN-SUFFIX, hayabusa.io
 
 // Amazon Prime Video
+USER-AGENT, InstantVideo.US*
 USER-AGENT, Prime%20Video*
+DOMAIN-SUFFIX, aiv-cdn.net
 DOMAIN-SUFFIX, amazonaws.com
 DOMAIN-SUFFIX, amazonvideo.com
+DOMAIN-SUFFIX, llnwd.net
 
 // Bahamut
 USER-AGENT, Anime*
@@ -58,14 +61,12 @@ DOMAIN-SUFFIX, now.com
 DOMAIN-SUFFIX, theplatform.com
 DOMAIN-SUFFIX, urlload.net
 
-// HBO
+// HBO && HBO Go
 USER-AGENT, HBO%20NOW*
-DOMAIN-SUFFIX, hbo.com
-DOMAIN-SUFFIX, hbogo.com
-
-// HBO Go
 DOMAIN-SUFFIX, execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX, hbo.com
 DOMAIN-SUFFIX, hboasia.com
+DOMAIN-SUFFIX, hbogo.com
 DOMAIN-SUFFIX, hbogoasia.hk
 
 // Hulu
