@@ -1,6 +1,5 @@
 PROCESS-NAME, Tweetbot
 
-USER-AGENT, *Telegram*
 USER-AGENT, *Tweetbot*
 
 DOMAIN-KEYWORD, twitter
