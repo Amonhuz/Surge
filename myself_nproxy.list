@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX, gamersky.com
-splashtop2
+
+USER-AGENT, *splashtop*
+USER-AGENT, *Splashtop*
+DOMAIN-KEYWORD, splashtop
