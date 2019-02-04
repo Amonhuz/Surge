@@ -5,6 +5,8 @@ USER-AGENT, *Tweetbot*
 DOMAIN-KEYWORD, twitter
 
 DOMAIN-SUFFIX, co.jp
+DOMAIN-SUFFIX, com.tw
+DOMAIN-SUFFIX, tw
 DOMAIN-SUFFIX, e-hentai.prg
 DOMAIN-SUFFIX, exhentai.org
 DOMAIN-SUFFIX, dmm.co.jp
