@@ -1,5 +1,5 @@
 USER-AGENT, *Vengeance*
 USER-AGENT, *Origins*
 USER-AGENT, *Twitch*
-USER-AGENT, *VoiceApp*, force-remote-dns
-USER-AGENT, *GVDialer*, force-remote-dns
+USER-AGENT, *VoiceApp*
+USER-AGENT, *GVDialer*
