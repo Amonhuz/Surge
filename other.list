@@ -1,6 +1,7 @@
 PROCESS-NAME, Tweetbot
 
 USER-AGENT, *Tweetbot*
+USER-AGENT, *Anime*
 
 DOMAIN-KEYWORD, twitter
 
@@ -14,3 +15,4 @@ DOMAIN-SUFFIX, amazon.co.jp
 DOMAIN-SUFFIX, twimg.com
 DOMAIN-SUFFIX, fc2.com
 DOMAIN-SUFFIX, pixiv.net
+DOMAIN-SUFFIX, hinet.net
