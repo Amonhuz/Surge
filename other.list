@@ -1,9 +1,4 @@
-PROCESS-NAME, Tweetbot
-
-USER-AGENT, *Tweetbot*
 USER-AGENT, *Anime*
-
-DOMAIN-KEYWORD, twitter
 
 DOMAIN-SUFFIX, co.jp
 DOMAIN-SUFFIX, com.tw
