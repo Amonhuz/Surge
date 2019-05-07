@@ -1,20 +1,9 @@
-URL-REGEX, *apple.com/cn
-
-PROCESS-NAME, storedownloadd
 PROCESS-NAME, trustd
-
 USER-AGENT, *com.apple.mobileme.fmip1
 USER-AGENT, *WeatherFoundation*
 USER-AGENT, %E5%9C%B0%E5%9B%BE*
 USER-AGENT, %E8%AE%BE%E7%BD%AE*
-USER-AGENT, App%20Store*
 USER-AGENT, AppStore*
-USER-AGENT, MacAppStore*
-USER-AGENT, %E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0*
-USER-AGENT, *AssistantServices*
-USER-AGENT, MobileAsset*
-USER-AGENT, Siri*
-
 USER-AGENT, com.apple.appstored*
 USER-AGENT, com.apple.geod*
 USER-AGENT, com.apple.Maps
@@ -26,17 +15,8 @@ USER-AGENT, fmflocatord*
 USER-AGENT, geod*
 USER-AGENT, locationd*
 USER-AGENT, Maps*
-
-USER-AGENT,TestFlight*
-
-DOMAIN, guzzoni.apple.com
-DOMAIN, api.smoot.apple.cn
-DOMAIN-SUFFIX, aaplimg.com
-DOMAIN-SUFFIX, apple.co
+USER-AGENT, TestFlight*
 DOMAIN-SUFFIX, apple.com
-DOMAIN-SUFFIX, cdn-apple.com
-DOMAIN-SUFFIX, itunes.apple.com
 DOMAIN-SUFFIX, itunes.com
-DOMAIN-SUFFIX, lookup-api.apple.com
 DOMAIN-SUFFIX, mzstatic.com
-DOMAIN, reserve-prime.apple.com
+DOMAIN, api.smoot.apple.cn
