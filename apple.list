@@ -1,4 +1,5 @@
 PROCESS-NAME, trustd
+
 USER-AGENT, *com.apple.mobileme.fmip1
 USER-AGENT, *WeatherFoundation*
 USER-AGENT, %E5%9C%B0%E5%9B%BE*
@@ -16,6 +17,7 @@ USER-AGENT, geod*
 USER-AGENT, locationd*
 USER-AGENT, Maps*
 USER-AGENT, TestFlight*
+
 DOMAIN-SUFFIX, apple.com
 DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, mzstatic.com
