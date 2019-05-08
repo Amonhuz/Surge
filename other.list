@@ -1,12 +1,14 @@
-USER-AGENT, *Anime*
+USER-AGENT, Anime*
 
-DOMAIN-SUFFIX, co.jp
-DOMAIN-SUFFIX, com.tw
-DOMAIN-SUFFIX, tw
+DOMAIN-SUFFIX, bahamut.com.tw
+DOMAIN-SUFFIX, gamer.com.tw
+DOMAIN-SUFFIX, hinet.net
 DOMAIN-SUFFIX, e-hentai.prg
 DOMAIN-SUFFIX, exhentai.org
 DOMAIN-SUFFIX, dmm.co.jp
 DOMAIN-SUFFIX, amazon.co.jp
 DOMAIN-SUFFIX, fc2.com
 DOMAIN-SUFFIX, pixiv.net
-DOMAIN-SUFFIX, hinet.net
+DOMAIN-SUFFIX, co.jp
+DOMAIN-SUFFIX, com.tw
+DOMAIN-SUFFIX, tw
