@@ -1,7 +1,6 @@
 # > Fox+
 USER-AGENT, FOX%20NOW*
 USER-AGENT, FOXPlus*
-
 DOMAIN-KEYWORD, foxplus
 DOMAIN-SUFFIX, config.fox.com
 DOMAIN-SUFFIX, emome.net
@@ -16,9 +15,8 @@ DOMAIN-SUFFIX, now.com
 DOMAIN-SUFFIX, theplatform.com
 DOMAIN-SUFFIX, urlload.net
 
-// Netflix
-USER-AGENT, *Argo*
-
+# > Netflix
+USER-AGENT, Argo*
 DOMAIN-SUFFIX, netflix.com
 DOMAIN-SUFFIX, netflix.net
 DOMAIN-SUFFIX, nflxext.com
