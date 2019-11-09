@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX, hls.itunes.apple.com
+DOMAIN-SUFFIX, hls-amt.itunes.apple.com
+DOMAIN-SUFFIX, audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX, cdn-apple.com
+DOMAIN, cdn.apple-cloudkit.com
+DOMAIN, devimages-cdn.apple.com
+DOMAIN, devstreaming-cdn.apple.com
+DOMAIN, js-cdn.music.apple.com
+
+USER-AGENT, AppleNews*
+DOMAIN-SUFFIX, apple.news
+DOMAIN, news-events.apple.com
+DOMAIN, news-edge.apple.com
+DOMAIN, apple.comscoreresearch.com
