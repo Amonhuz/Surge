@@ -20,6 +20,7 @@ USER-AGENT, Maps*
 USER-AGENT, TestFlight*
 USER-AGENT, passd*
 USER-AGENT, Wallet*
+USER-AGENT, itunesstored*
 
 DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, mzstatic.com
