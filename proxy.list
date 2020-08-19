@@ -26,16 +26,12 @@ DOMAIN-SUFFIX, line-cdn.net
 DOMAIN-SUFFIX, line-scdn.net
 DOMAIN-SUFFIX, nhncorp.jp
 
-# > Microsoft
-USER-AGENT, OneDrive*
-DOMAIN-KEYWORD, microsoft
-DOMAIN-SUFFIX, hotmail.com
-DOMAIN-SUFFIX, live.com
-DOMAIN-SUFFIX, live.net
-DOMAIN-SUFFIX, msn.com
-DOMAIN-SUFFIX, office.com
-DOMAIN-SUFFIX, office.net
-DOMAIN-SUFFIX, outlook.com
+# > Sony
+DOMAIN-SUFFIX, playstation.com
+DOMAIN-SUFFIX, playstation.net
+DOMAIN-SUFFIX, playstationnetwork.com
+DOMAIN-SUFFIX, sony.com
+DOMAIN-SUFFIX, sonyentertainmentnetwork.com
 
 # > Spark
 DOMAIN-SUFFIX, api.amplitude.com
@@ -43,16 +39,8 @@ DOMAIN-SUFFIX, app.smartmailcloud.com
 DOMAIN-SUFFIX, gate.hockeyapp.net
 DOMAIN-SUFFIX, smartmailcloud.com
 
-# > Speedtest
-DOMAIN-KEYWORD, speedtest
-DOMAIN-SUFFIX, ooklaserver.net
-
-# > Steam
-DOMAIN-SUFFIX, fanatical.com
-DOMAIN-SUFFIX, humblebundle.com
-DOMAIN-SUFFIX, steamcommunity.com
-DOMAIN-SUFFIX, steampowered.com
-DOMAIN-SUFFIX, steamstatic.com
+# > Zooba
+USER-AGENT, battleroyale*
 
 # > Top blocked sites
 DOMAIN-SUFFIX, 2o7.net
@@ -70,6 +58,8 @@ DOMAIN-SUFFIX, akamaihd.net
 DOMAIN-SUFFIX, airtable.com
 DOMAIN-SUFFIX, alfredapp.com
 DOMAIN-SUFFIX, allconnected.co
+DOMAIN-SUFFIX, amazon.co
+DOMAIN-SUFFIX, amazon.co.jp
 DOMAIN-SUFFIX, amazon.com
 DOMAIN-SUFFIX, amazonaws.com
 DOMAIN-SUFFIX, ampproject.com
@@ -84,7 +74,9 @@ DOMAIN-SUFFIX, angularjs.org
 DOMAIN-SUFFIX, anthonycalzadilla.com
 DOMAIN-SUFFIX, aol.com
 DOMAIN-SUFFIX, aolcdn.com
+DOMAIN-SUFFIX, apache.org
 DOMAIN-SUFFIX, api.mixpanel.com
+DOMAIN-SUFFIX, api.termius.com
 DOMAIN-SUFFIX, api.tiktokv.com
 DOMAIN-SUFFIX, api.urbandictionary.com
 DOMAIN-SUFFIX, apigee.com
@@ -138,6 +130,7 @@ DOMAIN-SUFFIX, box.net
 DOMAIN-SUFFIX, boxun.com
 DOMAIN-SUFFIX, cachefly.net
 DOMAIN-SUFFIX, cbc.ca
+DOMAIN-SUFFIX, cdn.angruo.com
 DOMAIN-SUFFIX, cdn.segment.com
 DOMAIN-SUFFIX, cdnst.net
 DOMAIN-SUFFIX, celestrak.com
@@ -151,6 +144,7 @@ DOMAIN-SUFFIX, chromercise.com
 DOMAIN-SUFFIX, chromestatus.com
 DOMAIN-SUFFIX, chromium.org
 DOMAIN-SUFFIX, cl.ly
+DOMAIN-SUFFIX, clien.net
 DOMAIN-SUFFIX, cloudflare.com
 DOMAIN-SUFFIX, cloudfront.net
 DOMAIN-SUFFIX, cloudgarage.jp
@@ -161,8 +155,8 @@ DOMAIN-SUFFIX, cnn.com
 DOMAIN-SUFFIX, cocoapods.org
 DOMAIN-SUFFIX, comodoca.com
 DOMAIN-SUFFIX, content.office.net
-DOMAIN-SUFFIX, culturedcode.com 
-DOMAIN-SUFFIX, cygames.jp 
+DOMAIN-SUFFIX, culturedcode.com
+DOMAIN-SUFFIX, cygames.jp
 DOMAIN-SUFFIX, d.pr
 DOMAIN-SUFFIX, danilo.to
 DOMAIN-SUFFIX, daolan.net
@@ -201,7 +195,6 @@ DOMAIN-SUFFIX, evernote.com
 DOMAIN-SUFFIX, extmatrix.com
 DOMAIN-SUFFIX, eyny.com
 DOMAIN-SUFFIX, fabric.io
-DOMAIN-SUFFIX, fast.com
 DOMAIN-SUFFIX, fastly.net
 DOMAIN-SUFFIX, fastmail.com
 DOMAIN-SUFFIX, fc2.com
@@ -223,7 +216,6 @@ DOMAIN-SUFFIX, fzlm.net
 DOMAIN-SUFFIX, g.co
 DOMAIN-SUFFIX, gabia.net
 DOMAIN-SUFFIX, garena.com
-DOMAIN-SUFFIX, gameloft.com
 DOMAIN-SUFFIX, geni.us
 DOMAIN-SUFFIX, get.how
 DOMAIN-SUFFIX, getcloudapp.com
@@ -255,11 +247,12 @@ DOMAIN-SUFFIX, gunsamerica.com
 DOMAIN-SUFFIX, gvt0.com
 DOMAIN-SUFFIX, gvt1.com
 DOMAIN-SUFFIX, helpshift.com
-DOMAIN-SUFFIX, hinet.net
+DOMAIN-SUFFIX, hitun.io
 DOMAIN-SUFFIX, hockeyapp.net
 DOMAIN-SUFFIX, homedepot.com
 DOMAIN-SUFFIX, hootsuite.com
 DOMAIN-SUFFIX, howtoforge.com
+DOMAIN-SUFFIX, i-cable.com
 DOMAIN-SUFFIX, iam.soy
 DOMAIN-SUFFIX, icoco.com
 DOMAIN-SUFFIX, icons8.com
@@ -269,7 +262,8 @@ DOMAIN-SUFFIX, imageshack.us
 DOMAIN-SUFFIX, img.ly
 DOMAIN-SUFFIX, imgur.com
 DOMAIN-SUFFIX, imore.com
-DOMAIN-SUFFIX, ingress.com 
+DOMAIN-SUFFIX, ingress.com
+DOMAIN-SUFFIX, inoreader.com
 DOMAIN-SUFFIX, insder.co
 DOMAIN-SUFFIX, instapaper.com
 DOMAIN-SUFFIX, instructables.com
@@ -314,6 +308,7 @@ DOMAIN-SUFFIX, logmein.com
 DOMAIN-SUFFIX, macid.co
 DOMAIN-SUFFIX, macromedia.com
 DOMAIN-SUFFIX, macrumors.com
+DOMAIN-SUFFIX, mangaup.jp
 DOMAIN-SUFFIX, manhuaren.com
 DOMAIN-SUFFIX, marketwatch.com
 DOMAIN-SUFFIX, mashable.com
@@ -339,7 +334,9 @@ DOMAIN-SUFFIX, ndr.de
 DOMAIN-SUFFIX, netdna-cdn.com
 DOMAIN-SUFFIX, newipnow.com
 DOMAIN-SUFFIX, nextmedia.com
+DOMAIN-SUFFIX, nicovideo.jp
 DOMAIN-SUFFIX, nih.gov
+DOMAIN-SUFFIX, nimg.jp
 DOMAIN-SUFFIX, nintendo.com
 DOMAIN-SUFFIX, nintendo.net
 DOMAIN-SUFFIX, notion.so
@@ -353,7 +350,6 @@ DOMAIN-SUFFIX, nytimg.com
 DOMAIN-SUFFIX, nytstyle.com
 DOMAIN-SUFFIX, office365.com
 DOMAIN-SUFFIX, omnigroup.com
-DOMAIN-SUFFIX, onedrive.com
 DOMAIN-SUFFIX, onenote.com
 DOMAIN-SUFFIX, ooyala.com
 DOMAIN-SUFFIX, openvpn.net
@@ -386,6 +382,7 @@ DOMAIN-SUFFIX, polymer-project.org
 DOMAIN-SUFFIX, popo.tw
 DOMAIN-SUFFIX, potato.im
 DOMAIN-SUFFIX, redd.it
+DOMAIN-SUFFIX, rthk.hk
 DOMAIN-SUFFIX, prfct.co
 DOMAIN-SUFFIX, proxfree.com
 DOMAIN-SUFFIX, psiphon3.com
@@ -412,6 +409,7 @@ DOMAIN-SUFFIX, sciencemag.org
 DOMAIN-SUFFIX, scribd.com
 DOMAIN-SUFFIX, search.com
 DOMAIN-SUFFIX, servebom.com
+DOMAIN-SUFFIX, sexinsex.net
 DOMAIN-SUFFIX, sfx.ms
 DOMAIN-SUFFIX, shadowsocks.org
 DOMAIN-SUFFIX, shadowverse.jp
@@ -422,7 +420,6 @@ DOMAIN-SUFFIX, sidelinesnews.com
 DOMAIN-SUFFIX, simp.ly
 DOMAIN-SUFFIX, simplenote.com
 DOMAIN-SUFFIX, sketchappsources.com
-DOMAIN-SUFFIX, skype.com
 DOMAIN-SUFFIX, slack.com
 DOMAIN-SUFFIX, slack-edge.com
 DOMAIN-SUFFIX, slack-msgs.com
@@ -457,7 +454,6 @@ DOMAIN-SUFFIX, sydneytoday.com
 DOMAIN-SUFFIX, symauth.com
 DOMAIN-SUFFIX, symcb.com
 DOMAIN-SUFFIX, symcd.com
-DOMAIN-SUFFIX, t.me
 DOMAIN-SUFFIX, t66y.com
 DOMAIN-SUFFIX, tablesgenerator.com
 DOMAIN-SUFFIX, tabtter.jp
@@ -466,12 +462,10 @@ DOMAIN-SUFFIX, talkboxapp.com
 DOMAIN-SUFFIX, talkonly.net
 DOMAIN-SUFFIX, tapbots.com
 DOMAIN-SUFFIX, tapbots.net
-DOMAIN-SUFFIX, tdesktop.com
 DOMAIN-SUFFIX, techcrunch.com
 DOMAIN-SUFFIX, technorati.com
 DOMAIN-SUFFIX, techsmith.com
 DOMAIN-SUFFIX, teddysun.com
-DOMAIN-SUFFIX, telegra.ph
 DOMAIN-SUFFIX, textnow.me
 DOMAIN-SUFFIX, thebobs.com
 DOMAIN-SUFFIX, theinitium.com
@@ -494,6 +488,7 @@ DOMAIN-SUFFIX, torcn.com
 DOMAIN-SUFFIX, torrentprivacy.com
 DOMAIN-SUFFIX, torrentproject.se
 DOMAIN-SUFFIX, torrentz.eu
+DOMAIN-SUFFIX, tradingview.com
 DOMAIN-SUFFIX, traffichaus.com
 DOMAIN-SUFFIX, trakt.tv
 DOMAIN-SUFFIX, transparency.org
@@ -586,17 +581,17 @@ DOMAIN-SUFFIX, wenxuecity.com
 DOMAIN-SUFFIX, westca.com
 DOMAIN-SUFFIX, westpoint.edu
 DOMAIN-SUFFIX, whatbrowser.org
+DOMAIN-SUFFIX, wikiwand.com
 DOMAIN-SUFFIX, wikileaks.info
 DOMAIN-SUFFIX, wikileaks.org
 DOMAIN-SUFFIX, wikileaks-forum.com
 DOMAIN-SUFFIX, wikimedia.org
 DOMAIN-SUFFIX, wikipedia.com
 DOMAIN-SUFFIX, wikipedia.org
-DOMAIN-SUFFIX, windows.com
-DOMAIN-SUFFIX, windows.net
 DOMAIN-SUFFIX, wn.com
 DOMAIN-SUFFIX, wordpress.com
 DOMAIN-SUFFIX, workflow.is
+DOMAIN-SUFFIX, workflowy.com
 DOMAIN-SUFFIX, worldcat.org
 DOMAIN-SUFFIX, wow.com
 DOMAIN-SUFFIX, wp.com
@@ -608,12 +603,14 @@ DOMAIN-SUFFIX, xclient.info
 DOMAIN-SUFFIX, xda-developers.com
 DOMAIN-SUFFIX, xeeno.com
 DOMAIN-SUFFIX, xiti.com
+DOMAIN-SUFFIX, xteko.com
 DOMAIN-SUFFIX, xuite.net
 DOMAIN-SUFFIX, xvideos.com
 DOMAIN-SUFFIX, yahoo.com
 DOMAIN-SUFFIX, yahooapis.com
 DOMAIN-SUFFIX, yasni.co.uk
 DOMAIN-SUFFIX, yastatic.net
+DOMAIN-SUFFIX, ycombinator.com
 DOMAIN-SUFFIX, yeeyi.com
 DOMAIN-SUFFIX, yesasia.com
 DOMAIN-SUFFIX, yes-news.com
@@ -633,6 +630,8 @@ DOMAIN-SUFFIX, zeutch.com
 DOMAIN-SUFFIX, zynamics.com
 
 # > Force some domains which are fucked by GFW while resolving DNS, or do not respect the system Proxy
+USER-AGENT, WhatsApp*
+
 DOMAIN-KEYWORD, appledaily
 DOMAIN-KEYWORD, beetalk
 DOMAIN-KEYWORD, blogspot
@@ -640,8 +639,6 @@ DOMAIN-KEYWORD, dropbox
 DOMAIN-KEYWORD, facebook
 DOMAIN-KEYWORD, github
 DOMAIN-KEYWORD, instagram
-DOMAIN-KEYWORD, porn
-DOMAIN-KEYWORD, telegram
 DOMAIN-KEYWORD, twitter
 DOMAIN-KEYWORD, whatsapp
 DOMAIN-KEYWORD, google
@@ -665,7 +662,6 @@ DOMAIN-SUFFIX, fbsbx.com
 DOMAIN-SUFFIX, gcr.io
 DOMAIN-SUFFIX, gmail.com
 DOMAIN-SUFFIX, gosetsuden.jp
-DOMAIN-SUFFIX, gvt1.com
 DOMAIN-SUFFIX, gwtproject.org
 DOMAIN-SUFFIX, heroku.com
 DOMAIN-SUFFIX, html5rocks.com
@@ -695,7 +691,6 @@ DOMAIN-SUFFIX, webrtc.org
 DOMAIN-SUFFIX, v2ex.com
 
 DOMAIN-KEYWORD, dlercloud
-DOMAIN-SUFFIX, dler.cloud
 
 # > Amazon
 IP-CIDR, 13.32.0.0/16, no-resolve
@@ -770,10 +765,3 @@ IP-CIDR, 74.86.0.0/16, no-resolve
 IP-CIDR, 75.126.0.0/16, no-resolve
 IP-CIDR, 174.37.0.0/16, no-resolve
 IP-CIDR, 208.43.0.0/16, no-resolve
-
-# > Telegram
-IP-CIDR, 91.108.4.0/22, no-resolve
-IP-CIDR, 91.108.8.0/22, no-resolve
-IP-CIDR, 91.108.56.0/22, no-resolve
-IP-CIDR, 149.154.160.0/20, no-resolve
-IP-CIDR, 149.154.164.0/22, no-resolve
