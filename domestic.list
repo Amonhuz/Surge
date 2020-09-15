@@ -1,7 +1,6 @@
 # > UA
 USER-AGENT, hide*
 USER-AGENT, MicroMessenger*
-// USER-AGENT, PayPal*
 USER-AGENT, TeamViewer*
 USER-AGENT, TIM*
 USER-AGENT, ting_en
@@ -12,11 +11,11 @@ USER-AGENT, WeChat*
 DOMAIN-KEYWORD, beplay
 
 # > Blizzard
-USER-AGENT, hearthstone*
-DOMAIN, cdp.cloud.unity3d.com
-DOMAIN-SUFFIX, battle.net
-DOMAIN-SUFFIX, battlenet.com
-DOMAIN-SUFFIX, blizzard.com
+# USER-AGENT, hearthstone*
+# DOMAIN, cdp.cloud.unity3d.com
+# DOMAIN-SUFFIX, battle.net
+# DOMAIN-SUFFIX, battlenet.com
+# DOMAIN-SUFFIX, blizzard.com
 
 # > Prior
 DOMAIN, client.amplifi.com
@@ -284,6 +283,3 @@ DOMAIN-SUFFIX, zimuzu.tv
 DOMAIN-SUFFIX, zmz002.com
 
 IP-CIDR, 1.255.62.0/24, no-resolve
-
-# > CN
-DOMAIN-SUFFIX, cn
