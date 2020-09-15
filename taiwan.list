@@ -4,3 +4,5 @@ DOMAIN-SUFFIX, bahamut.com.tw
 DOMAIN-SUFFIX, gamer.com.tw
 DOMAIN-SUFFIX, hinet.net
 DOMAIN-SUFFIX, com.tw
+
+USER-AGENT, AppleTV*
