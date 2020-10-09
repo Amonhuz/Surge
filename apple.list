@@ -1,5 +1,6 @@
-PROCESS-NAME, trustd
-PROCESS-NAME, storedownloadd
+PROCESS-NAME, trustd*
+PROCESS-NAME, storedownloadd*
+PROCESS-NAME, gamed*
 
 USER-AGENT, *com.apple.mobileme.fmip1
 USER-AGENT, *WeatherFoundation*
