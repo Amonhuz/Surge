@@ -4,4 +4,3 @@ USER-AGENT, *Twitch*
 USER-AGENT, *VoiceApp*
 USER-AGENT, *GVDialer*
 USER-AGENT, *Reeder*
-DOMAIN-SUFFIX, plex.tv
