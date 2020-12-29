@@ -1,4 +1,3 @@
-# > Twitter
 PROCESS-NAME, Tweetbot
 PROCESS-NAME, Twitter
 PROCESS-NAME, Twitterrific
@@ -6,4 +5,5 @@ PROCESS-NAME, Twitterrific
 USER-AGENT, *Tweetbot*
 
 DOMAIN-KEYWORD, twitter
+
 DOMAIN-SUFFIX, twimg.com
