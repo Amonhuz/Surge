@@ -1,0 +1,51 @@
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN,one.one.one.one
+
+# Google
+DOMAIN,dns.google
+
+# Quad9
+DOMAIN-SUFFIX,quad9.net
+
+# AdGuard
+DOMAIN-SUFFIX,adguard-dns.com
+
+# NextDNS
+DOMAIN-SUFFIX,nextdns.io
+
+# Mullvad
+DOMAIN-SUFFIX,mullvad.net
+
+# Control D
+DOMAIN-SUFFIX,freedns.controld.com
+
+# OpenDNS
+DOMAIN-SUFFIX,opendns.com
+
+# CleanBrowsing
+DOMAIN-SUFFIX,cleanbrowsing.org
+
+# DNS.SB
+DOMAIN-SUFFIX,dns.sb
+DOMAIN,dot.sb
+
+# AliDNS
+DOMAIN,dns.alidns.com
+
+# DNSPod
+DOMAIN,doh.pub
+DOMAIN,dns.pub
+
+# 360
+DOMAIN,doh.360.cn
+DOMAIN,dot.360.cn
+
+# OneDNS
+DOMAIN-SUFFIX,onedns.net
+
+# Yandex
+DOMAIN-SUFFIX,dot.dns.yandex.net
+
+# LibreDNS
+DOMAIN-SUFFIX,libredns.gr
